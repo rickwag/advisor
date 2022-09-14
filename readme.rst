@@ -1,4 +1,9 @@
 ###################
+About
+###################
+A web app that display random advice or advice by simple searches, using codeigniter php framework
+
+###################
 What is CodeIgniter
 ###################
 
