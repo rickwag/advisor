@@ -1,0 +1,45 @@
+* {
+    font-family:'Fira Code', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background-image: linear-gradient(to right, #fde9e9, #eacaca, #d7abab, #c38d8d, #af7070);
+}
+
+main {
+    height: 70vh;
+    width: 40%;
+    border: 5px solid #750009;
+    margin-top: 5%;
+    padding: 10px;
+}
+
+h1 {
+    top: -10px;
+    background-color: #74232A;
+    border: 5px solid #F64A58;
+    border-radius: 15px;
+}
+
+main > button {
+    border: 5px solid #750009;
+    width: 50%;
+    min-height: 50px;
+    border-radius: 15px;
+    color: #F40113;
+    font-weight: bold;
+    font-size: 1.2rem;
+    background-color: #FDE9E9;
+}
+
+button:hover {
+    background-color: transparent;
+}
+
+button:active {
+    scale: .99;
+}
+
+p {
+    color: #F40113;
+}
